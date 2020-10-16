@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "entropy calculator", "entropy calculator\entropy calculator.csproj", "{250D0861-7588-4E42-9997-A92667054D47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{250D0861-7588-4E42-9997-A92667054D47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{250D0861-7588-4E42-9997-A92667054D47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{250D0861-7588-4E42-9997-A92667054D47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{250D0861-7588-4E42-9997-A92667054D47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9BAB2ACC-FE8E-4ADF-A516-D16C50EFEB05}
+	EndGlobalSection
+EndGlobal

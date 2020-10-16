@@ -1,0 +1,13 @@
+C:\Users\Furkan Gözükara\Desktop\CSE419-Artificial-Intelligence-and-Machine-Learning-2020\source codes\entropy calculator\entropy calculator\bin\Debug\netcoreapp3.1\entropy calculator.exe
+C:\Users\Furkan Gözükara\Desktop\CSE419-Artificial-Intelligence-and-Machine-Learning-2020\source codes\entropy calculator\entropy calculator\bin\Debug\netcoreapp3.1\entropy calculator.deps.json
+C:\Users\Furkan Gözükara\Desktop\CSE419-Artificial-Intelligence-and-Machine-Learning-2020\source codes\entropy calculator\entropy calculator\bin\Debug\netcoreapp3.1\entropy calculator.runtimeconfig.json
+C:\Users\Furkan Gözükara\Desktop\CSE419-Artificial-Intelligence-and-Machine-Learning-2020\source codes\entropy calculator\entropy calculator\bin\Debug\netcoreapp3.1\entropy calculator.runtimeconfig.dev.json
+C:\Users\Furkan Gözükara\Desktop\CSE419-Artificial-Intelligence-and-Machine-Learning-2020\source codes\entropy calculator\entropy calculator\bin\Debug\netcoreapp3.1\entropy calculator.dll
+C:\Users\Furkan Gözükara\Desktop\CSE419-Artificial-Intelligence-and-Machine-Learning-2020\source codes\entropy calculator\entropy calculator\bin\Debug\netcoreapp3.1\entropy calculator.pdb
+C:\Users\Furkan Gözükara\Desktop\CSE419-Artificial-Intelligence-and-Machine-Learning-2020\source codes\entropy calculator\entropy calculator\obj\Debug\netcoreapp3.1\entropy calculator.csprojAssemblyReference.cache
+C:\Users\Furkan Gözükara\Desktop\CSE419-Artificial-Intelligence-and-Machine-Learning-2020\source codes\entropy calculator\entropy calculator\obj\Debug\netcoreapp3.1\entropy calculator.AssemblyInfoInputs.cache
+C:\Users\Furkan Gözükara\Desktop\CSE419-Artificial-Intelligence-and-Machine-Learning-2020\source codes\entropy calculator\entropy calculator\obj\Debug\netcoreapp3.1\entropy calculator.AssemblyInfo.cs
+C:\Users\Furkan Gözükara\Desktop\CSE419-Artificial-Intelligence-and-Machine-Learning-2020\source codes\entropy calculator\entropy calculator\obj\Debug\netcoreapp3.1\entropy calculator.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Gözükara\Desktop\CSE419-Artificial-Intelligence-and-Machine-Learning-2020\source codes\entropy calculator\entropy calculator\obj\Debug\netcoreapp3.1\entropy calculator.dll
+C:\Users\Furkan Gözükara\Desktop\CSE419-Artificial-Intelligence-and-Machine-Learning-2020\source codes\entropy calculator\entropy calculator\obj\Debug\netcoreapp3.1\entropy calculator.pdb
+C:\Users\Furkan Gözükara\Desktop\CSE419-Artificial-Intelligence-and-Machine-Learning-2020\source codes\entropy calculator\entropy calculator\obj\Debug\netcoreapp3.1\entropy calculator.genruntimeconfig.cache
