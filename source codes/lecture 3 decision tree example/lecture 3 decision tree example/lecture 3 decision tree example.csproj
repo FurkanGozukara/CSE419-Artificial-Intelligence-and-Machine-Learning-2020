@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>lecture_3_decision_tree_example</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Accord.DataSets" Version="3.8.0" />
+    <PackageReference Include="Accord.MachineLearning" Version="3.8.0" />
+  </ItemGroup>
+
+</Project>
