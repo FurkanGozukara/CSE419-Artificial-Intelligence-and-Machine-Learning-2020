@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lecture 6 perceptron example", "lecture 6 perceptron example\lecture 6 perceptron example.csproj", "{29BE2EF6-A9E6-4C97-A553-C1B6FB9A415A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29BE2EF6-A9E6-4C97-A553-C1B6FB9A415A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29BE2EF6-A9E6-4C97-A553-C1B6FB9A415A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29BE2EF6-A9E6-4C97-A553-C1B6FB9A415A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29BE2EF6-A9E6-4C97-A553-C1B6FB9A415A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A88E9A7-BDDF-46A1-BD76-DC1E14A3B856}
+	EndGlobalSection
+EndGlobal
