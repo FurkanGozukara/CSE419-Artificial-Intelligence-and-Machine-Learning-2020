@@ -1,0 +1,12 @@
+10-fold cross validation average accuracy is: 88.31%
+File: nfold_training/train_3.txt		Acc: 99.18		iteration: 4,517
+File: nfold_training/train_0.txt		Acc: 99.18		iteration: 3,574
+File: nfold_training/train_10.txt		Acc: 98.46		iteration: 3,823
+File: nfold_training/train_1.txt		Acc: 98.36		iteration: 8,703
+File: nfold_training/train_2.txt		Acc: 98.36		iteration: 6,085
+File: nfold_training/train_6.txt		Acc: 98.36		iteration: 9,845
+File: nfold_training/train_7.txt		Acc: 98.36		iteration: 1,451
+File: nfold_training/train_9.txt		Acc: 94.26		iteration: 9,986
+File: nfold_training/train_8.txt		Acc: 86.07		iteration: 7,446
+File: nfold_training/train_5.txt		Acc: 63.93		iteration: 9,925
+File: nfold_training/train_4.txt		Acc: 36.89		iteration: 0

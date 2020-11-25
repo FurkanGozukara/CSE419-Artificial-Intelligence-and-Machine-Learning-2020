@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "zndG2OWbiIqDMlIY6TQtLm8E7E2uSVSRid7Ek7hYVfwdcqO9twM/hSGCuHGp9eahuDU1iQqPq1DnwO5hLIDcyw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Furkan Gözükara\\Desktop\\CSE419-Artificial-Intelligence-and-Machine-Learning-2020\\source codes\\lecture 7\\lecture 7 Neural Networks WPF\\lecture 7 Neural Networks WPF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Furkan Gözükara\\.nuget\\packages\\accord\\3.8.0\\accord.3.8.0.nupkg.sha512",
+    "C:\\Users\\Furkan Gözükara\\.nuget\\packages\\accord.genetic\\3.8.0\\accord.genetic.3.8.0.nupkg.sha512",
+    "C:\\Users\\Furkan Gözükara\\.nuget\\packages\\accord.machinelearning\\3.8.0\\accord.machinelearning.3.8.0.nupkg.sha512",
+    "C:\\Users\\Furkan Gözükara\\.nuget\\packages\\accord.math\\3.8.0\\accord.math.3.8.0.nupkg.sha512",
+    "C:\\Users\\Furkan Gözükara\\.nuget\\packages\\accord.neuro\\3.8.0\\accord.neuro.3.8.0.nupkg.sha512",
+    "C:\\Users\\Furkan Gözükara\\.nuget\\packages\\accord.statistics\\3.8.0\\accord.statistics.3.8.0.nupkg.sha512",
+    "C:\\Users\\Furkan Gözükara\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

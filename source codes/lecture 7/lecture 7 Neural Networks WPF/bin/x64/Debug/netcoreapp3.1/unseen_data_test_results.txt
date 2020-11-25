@@ -1,0 +1,16 @@
+accuracy of unseen data testing: 100.00
+test data index: 0		Real Class: 2		Predicted Class: 2
+test data index: 1		Real Class: 2		Predicted Class: 2
+test data index: 2		Real Class: 2		Predicted Class: 2
+test data index: 3		Real Class: 2		Predicted Class: 2
+test data index: 4		Real Class: 2		Predicted Class: 2
+test data index: 5		Real Class: 3		Predicted Class: 3
+test data index: 6		Real Class: 3		Predicted Class: 3
+test data index: 7		Real Class: 3		Predicted Class: 3
+test data index: 8		Real Class: 3		Predicted Class: 3
+test data index: 9		Real Class: 3		Predicted Class: 3
+test data index: 10		Real Class: 1		Predicted Class: 1
+test data index: 11		Real Class: 1		Predicted Class: 1
+test data index: 12		Real Class: 1		Predicted Class: 1
+test data index: 13		Real Class: 1		Predicted Class: 1
+test data index: 14		Real Class: 1		Predicted Class: 1

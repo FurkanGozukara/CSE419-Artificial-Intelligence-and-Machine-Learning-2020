@@ -1,0 +1,2 @@
+Iteration: 792		Acurracy: 96.72%
+
